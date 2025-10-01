@@ -1,5 +1,5 @@
 {
-    "current_version": "1.0.1",
-    "change_log": "- Fixed changelog formatting",
-    "is_force_update": false
+    "current_version": "0.0.10",
+    "change_log": "- Update version to 1.0.1",
+    "is_force_update": true
 }
