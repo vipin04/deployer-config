@@ -1,5 +1,5 @@
 {
-	"current_version": 0.0.10,
- 	"change_log": "Added list free-ns command",
- 	"is_force_update": false,
+    "current_version": "0.0.9",
+    "change_log": "- first commit with dummy version",
+    "is_force_update": true
 }
