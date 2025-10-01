@@ -1,5 +1,5 @@
 {
-    "current_version": "1.0.0",
-    "change_log": "- Test commit message",
+    "current_version": "1.0.1",
+    "change_log": "- Fixed changelog formatting",
     "is_force_update": false
 }
