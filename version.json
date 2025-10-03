@@ -1,5 +1,5 @@
 {
-    "current_version": "0.0.13",
-    "change_log": "- added auto update and force update abilities in cli",
+    "current_version": "0.0.14",
+    "change_log": "- Test force update blocking for non-deployment commands",
     "is_force_update": true
 }
